@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aiden9034
 - 👀 I’m interested in C# and lua.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning nothing atm.
 - 📫 How to reach me discord at : Aiden#5000
 
 <!---
