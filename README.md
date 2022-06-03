@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aiden9034
 - 👀 I’m interested in C# and lua.
 - 🌱 I’m currently learning nothing atm.
-- 📫 How to reach me discord at: Aiden#5000
+- 📫 Discord: Aiden#5000
 
 <!---
 Aiden9034/Aiden9034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
